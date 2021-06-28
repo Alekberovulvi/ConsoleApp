@@ -1,0 +1,14 @@
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe.config
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csprojAssemblyReference.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.CoreCompileInputs.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.exe
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalMangment\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe.config
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csprojAssemblyReference.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.CoreCompileInputs.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.exe
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\C#\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.pdb
